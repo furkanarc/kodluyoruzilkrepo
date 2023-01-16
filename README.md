@@ -1,4 +1,4 @@
-# [Patika](www.patika.dev)
+# [Patika](https://www.patika.dev)
 
 
 # Kodluyoruz İlk Repo
