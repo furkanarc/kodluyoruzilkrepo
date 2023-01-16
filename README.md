@@ -1,3 +1,6 @@
+# [Patika](www.patika.dev)
+
+
 # Kodluyoruz İlk Repo
 
 ![Gorsel](https://github.com//furkanarc/kodluyoruzilkrepo/blob/main/Gorsel.png?raw=true)
