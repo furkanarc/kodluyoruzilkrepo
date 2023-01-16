@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-![Gorsel](https://github.com//furkanarc/kodluyoruzilkrepo/blob/main/Gorsel.png)
+![Gorsel](https://github.com//furkanarc/kodluyoruzilkrepo//blob/main/Gorsel.png)
 
 ## Installation
 
